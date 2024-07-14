@@ -1,0 +1,9 @@
+A recepie for memoization 
+Make it work:
+1. Visualize the problem as a tree
+2. Implement the tree using recursion
+3. Test it with the small inputs
+Make it efficient:
+1. Add a memo object, use hash maps or a static array
+2. Add a base case to capture the memo
+3. Store the result values into the memo object
